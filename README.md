@@ -26,7 +26,7 @@
   </p>
 
 ## Proyectos
-## Dogs App
+## Pokemon App
 <p> <a>Desarrollado con:</a>
 <ul>
 <li>React</li>
@@ -36,7 +36,7 @@
 <li>Sequelize</li>
 <li>PostgreSQL</li>
 </ul>
-Esta aplicación fusiona tanto bases de datos, backend y frontend. Usa una API externa (The Dog Api) la cual nos brinda una lista detallada de razas de perros, los cuales, vamos a poder filtrar por género, ordenar por nombre, temperamentos entre otras, se pueden buscar razas, y crear las propios. la realicé creando una base de datos con Sequelize y postgreSQL para almacenar las razas de perros que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend. Para visualizar, haz click <a href="https://pi-pokemons-roan.vercel.app">aqui</a> </p>
+Esta aplicación fusiona tanto bases de datos, backend y frontend. Usa una API externa (PokeApi) la cual nos brinda una lista detallada de pokemones, los cuales, vamos a poder filtrar por género, ordenar por nombre, tipos y crear las propios. La realicé creando una base de datos con Sequelize y postgreSQL para almacenar aquellos pokemones que el usuario irá creando. Utilizando async await para la parte del Backend y manejando un formulario controlado en el Frontend. Para visualizar, haz click <a href="https://pi-pokemons-roan.vercel.app">aqui</a> </p>
 
 ## E-commerce HenryFilms
 <p> <a>Desarrollado con:</a>
